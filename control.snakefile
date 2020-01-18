@@ -64,8 +64,8 @@ rule download_reads:
 #    return file_names
 
 rule paladin_index_plass:
-    output: "outputs/cd-hit95/{nbhd}.faa.bwt"
-    input: "outputs/cd-hit95/{nbhd}.faa"
+    output: "outputs/cd-hit95/{nbhd}.cdhit95.faa.bwt"
+    input: "outputs/cd-hit95/{nbhd}.cdhit95.faa"
     benchmark: "benchmarks/{nbhd}.paladin_index.txt"
     conda: ENV
     shell:'''
@@ -75,11 +75,11 @@ rule paladin_index_plass:
 rule paladin_align:
     output: "outputs/paladin/{nbhd}.sam"
     input:
-        indx="outputs/cd-hit95/{nbhd}.faa.bwt"
+        indx="outputs/cd-hit95/{nbhd}.cdhit95.faa.bwt",
         reads="inputs/reads/hu-s1_k31_r1_search_oh0/{nbhd}.fa.cdbg_ids.reads.hardtrim.fa.gz"
         #reads = aggregate_decompress_reads
     params:
-        indx= "outputs/cd-hit95/{nbhd}.faa"
+        indx= "outputs/cd-hit95/{nbhd}.cdhit95.faa"
     benchmark: "benchmarks/{nbhd}.paladin_align.txt"
     conda: ENV
     shell:'''
@@ -104,7 +104,11 @@ rule samtools_view_paladin:
 
 rule salmon_paladin:
     output: "outputs/salmon/{nbhd}_quant/quant.sf"
-    input:"outputs/cd-hit95/{nbhd}.faa"
+    input:
+        cdhit="outputs/cd-hit95/{nbhd}.cdhit95.faa",
+        bam="outputs/paladin/{nbhd}.bam"
+    params:
+        out="outputs/salmon/{nbhd}_quant"
     conda: ENV
     shell:'''
     salmon quant -t {input.cdhit} -l A -a {input.bam} -o {params.out}
