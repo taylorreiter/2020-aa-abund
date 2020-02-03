@@ -1,0 +1,8 @@
+{
+    "salmon_version": "0.15.0",
+    "targets": "outputs/cd-hit95/hu-genome24.cdhit95.faa",
+    "libType": "A",
+    "alignments": "outputs/paladin/hu-genome24.bam",
+    "output": "outputs/salmon/hu-genome24_quant",
+    "auxDir": "aux_info"
+}
