@@ -1,0 +1,155 @@
+[2020-01-17 21:04:16.573] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2020-01-17 21:04:16.593] [jointLog] [info] numQuantThreads = 4
+[2020-01-17 21:04:20.351] [jointLog] [info] replaced 591,326 non-ACGT nucleotides with random nucleotides
+[2020-01-17 21:04:21.349] [fileLog] [info] quantification processed 0 fragments so far
+
+[2020-01-17 21:04:21.426] [fileLog] [info] quantification processed 258057 fragments so far
+
+[2020-01-17 21:04:21.367] [jointLog] [warning] (in update()) CIGAR string for read [1484:1:1:SRR1976948.14565173] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:21.367] [jointLog] [warning] CIGAR = 28M46C
+[2020-01-17 21:04:21.404] [jointLog] [warning] (in update()) CIGAR string for read [6777:3:3:SRR1976948.16859845] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:21.404] [jointLog] [warning] CIGAR = 56C18M5C
+[2020-01-17 21:04:21.415] [jointLog] [warning] (in update()) CIGAR string for read [8434:2:2:SRR1976948.32730] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:21.415] [jointLog] [warning] CIGAR = 43C17M2C
+[2020-01-17 21:04:21.415] [jointLog] [warning] (in update()) CIGAR string for read [8435:5:5:SRR1976948.32730] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:21.415] [jointLog] [warning] CIGAR = 43C17M1C
+[2020-01-17 21:04:21.532] [jointLog] [warning] (in update()) CIGAR string for read [14291:5:5:SRR1976948.1101871] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:21.532] [jointLog] [warning] CIGAR = 49C30M4C
+[2020-01-17 21:04:21.605] [jointLog] [warning] (in update()) CIGAR string for read [18321:4:4:SRR1976948.1684592] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:21.605] [jointLog] [warning] CIGAR = 62C17M4C
+[2020-01-17 21:04:21.678] [jointLog] [warning] (in update()) CIGAR string for read [21810:3:3:SRR1976948.2163851] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:21.678] [jointLog] [warning] CIGAR = 59C21M3C
+[2020-01-17 21:04:21.859] [jointLog] [warning] (in update()) CIGAR string for read [30986:0:0:SRR1976948.3269629] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:21.859] [jointLog] [warning] CIGAR = 51C30M2C
+[2020-01-17 21:04:21.964] [jointLog] [warning] (in update()) CIGAR string for read [32002:4:4:SRR1976948.3391101] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:21.964] [jointLog] [warning] CIGAR = 41C41M1C
+[2020-01-17 21:04:22.150] [jointLog] [warning] (in update()) CIGAR string for read [42216:1:1:SRR1976948.4446367] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:22.150] [jointLog] [warning] CIGAR = 38C30M2C
+[2020-01-17 21:04:22.150] [jointLog] [warning] (in update()) CIGAR string for read [42217:4:4:SRR1976948.4446367] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:22.150] [jointLog] [warning] CIGAR = 38C30M2C
+[2020-01-17 21:04:22.243] [jointLog] [warning] (in update()) CIGAR string for read [45363:2:2:SRR1976948.4754895] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:22.243] [jointLog] [warning] CIGAR = 57C18M8C
+[2020-01-17 21:04:22.299] [jointLog] [warning] (in update()) CIGAR string for read [48247:0:0:SRR1976948.5042892] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:22.299] [jointLog] [warning] CIGAR = 50C17M2C
+[2020-01-17 21:04:22.371] [jointLog] [warning] (in update()) CIGAR string for read [49021:4:4:SRR1976948.5120166] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:22.371] [jointLog] [warning] CIGAR = 38C41M4C
+[2020-01-17 21:04:22.402] [jointLog] [info] Automatically detected most likely library type as SF
+[2020-01-17 21:04:22.709] [jointLog] [warning] (in update()) CIGAR string for read [60265:2:2:SRR1976948.6296299] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:22.709] [jointLog] [warning] CIGAR = 55C2M1D19M7C
+[2020-01-17 21:04:22.902] [jointLog] [warning] (in update()) CIGAR string for read [68627:1:1:SRR1976948.7278578] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:22.903] [jointLog] [warning] CIGAR = 58C21M4C
+[2020-01-17 21:04:23.255] [jointLog] [warning] (in update()) CIGAR string for read [82520:4:4:SRR1976948.10308705] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:23.255] [jointLog] [warning] CIGAR = 64C17M2C
+[2020-01-17 21:04:23.300] [jointLog] [warning] (in update()) CIGAR string for read [87194:1:1:SRR1976948.15724713] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:23.300] [jointLog] [warning] CIGAR = 43C34M6C
+[2020-01-17 21:04:23.326] [jointLog] [warning] (in update()) CIGAR string for read [87633:1:1:SRR1976948.3239416] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:23.326] [jointLog] [warning] CIGAR = 42C25M3C
+[2020-01-17 21:04:23.326] [jointLog] [warning] (in update()) CIGAR string for read [87641:3:3:SRR1976948.3454519] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:23.326] [jointLog] [warning] CIGAR = 58C17M3C
+[2020-01-17 21:04:23.329] [jointLog] [warning] (in update()) CIGAR string for read [87766:4:4:SRR1976948.4474190] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:23.329] [jointLog] [warning] CIGAR = 54C28M1C
+[2020-01-17 21:04:23.379] [jointLog] [warning] (in update()) CIGAR string for read [88742:5:5:SRR1976948.5839014] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:23.379] [jointLog] [warning] CIGAR = 39C18M4C
+[2020-01-17 21:04:23.379] [jointLog] [warning] (in update()) CIGAR string for read [88743:2:2:SRR1976948.5839014] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:23.379] [jointLog] [warning] CIGAR = 39C18M4C
+[2020-01-17 21:04:23.388] [jointLog] [warning] (in update()) CIGAR string for read [86148:2:2:SRR1976948.13210486] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:23.388] [jointLog] [warning] CIGAR = 61C21M1C
+[2020-01-17 21:04:28.828] [jointLog] [warning] (in update()) CIGAR string for read [100633:2:2:SRR1976948.8569592] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:28.828] [jointLog] [warning] CIGAR = 26C15M1C
+[2020-01-17 21:04:29.927] [jointLog] [warning] (in update()) CIGAR string for read [103774:4:4:SRR1976948.8969897] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:29.927] [jointLog] [warning] CIGAR = 60C16M3C
+[2020-01-17 21:04:36.072] [jointLog] [warning] (in update()) CIGAR string for read [113502:0:0:SRR1976948.9995891] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:36.072] [jointLog] [warning] CIGAR = 57C18M1C
+[2020-01-17 21:04:36.303] [jointLog] [warning] (in update()) CIGAR string for read [116021:5:5:SRR1976948.10225224] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:36.303] [jointLog] [warning] CIGAR = 61C20M2C
+[2020-01-17 21:04:38.495] [jointLog] [warning] (in update()) CIGAR string for read [118815:3:3:SRR1976948.10486677] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:38.495] [jointLog] [warning] CIGAR = 60C18M1D3M2C
+[2020-01-17 21:04:42.290] [jointLog] [warning] (in update()) CIGAR string for read [128263:5:5:SRR1976948.11294898] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:42.290] [jointLog] [warning] CIGAR = 47C15M6C
+[2020-01-17 21:04:50.634] [jointLog] [warning] (in update()) CIGAR string for read [142967:1:1:SRR1976948.12504441] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:50.634] [jointLog] [warning] CIGAR = 48C31M4C
+[2020-01-17 21:04:54.741] [jointLog] [warning] (in update()) CIGAR string for read [152275:4:4:SRR1976948.13248489] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:54.741] [jointLog] [warning] CIGAR = 45C30M8C
+[2020-01-17 21:04:54.742] [jointLog] [warning] (in update()) CIGAR string for read [152334:5:5:SRR1976948.13253455] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:54.742] [jointLog] [warning] CIGAR = 59C18M6C
+[2020-01-17 21:04:55.746] [jointLog] [warning] (in update()) CIGAR string for read [153730:3:3:SRR1976948.13371466] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:04:55.746] [jointLog] [warning] CIGAR = 63C17M3C
+[2020-01-17 21:05:02.841] [jointLog] [warning] (in update()) CIGAR string for read [168862:4:4:SRR1976948.14574331] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:02.841] [jointLog] [warning] CIGAR = 51C29M3C
+[2020-01-17 21:05:02.841] [jointLog] [warning] (in update()) CIGAR string for read [168863:2:2:SRR1976948.14574331] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:02.841] [jointLog] [warning] CIGAR = 52C29M2C
+[2020-01-17 21:05:04.643] [jointLog] [warning] (in update()) CIGAR string for read [171586:3:3:SRR1976948.14803295] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:04.643] [jointLog] [warning] CIGAR = 53C22M3C
+[2020-01-17 21:05:04.716] [jointLog] [warning] (in update()) CIGAR string for read [172128:5:5:SRR1976948.14848395] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:04.716] [jointLog] [warning] CIGAR = 45C30M3C
+[2020-01-17 21:05:11.225] [jointLog] [warning] (in update()) CIGAR string for read [183847:0:0:SRR1976948.15834663] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:11.225] [jointLog] [warning] CIGAR = 24C4M2I1M2D18M3C
+[2020-01-17 21:05:11.594] [jointLog] [warning] (in update()) CIGAR string for read [185661:4:4:SRR1976948.16009147] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:11.594] [jointLog] [warning] CIGAR = 59C18M3C
+[2020-01-17 21:05:13.774] [jointLog] [warning] (in update()) CIGAR string for read [189993:1:1:SRR1976948.16404102] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:13.774] [jointLog] [warning] CIGAR = 46C35M2C
+[2020-01-17 21:05:15.524] [jointLog] [warning] (in update()) CIGAR string for read [192869:2:2:SRR1976948.16668591] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:15.524] [jointLog] [warning] CIGAR = 48C34M1C
+[2020-01-17 21:05:21.903] [jointLog] [warning] (in update()) CIGAR string for read [204597:4:4:SRR1976948.567543] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:21.903] [jointLog] [warning] CIGAR = 54C26M3C
+[2020-01-17 21:05:21.905] [jointLog] [warning] (in update()) CIGAR string for read [204652:4:4:SRR1976948.571296] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:21.905] [jointLog] [warning] CIGAR = 44C30M6C
+[2020-01-17 21:05:21.978] [jointLog] [warning] (in update()) CIGAR string for read [205146:3:3:SRR1976948.623570] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:21.978] [jointLog] [warning] CIGAR = 46C5M1D3M1I25M3C
+[2020-01-17 21:05:24.092] [jointLog] [warning] (in update()) CIGAR string for read [209292:3:3:SRR1976948.1062213] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:24.092] [jointLog] [warning] CIGAR = 45C34M4C
+[2020-01-17 21:05:29.892] [jointLog] [warning] (in update()) CIGAR string for read [220055:4:4:SRR1976948.2322838] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:29.892] [jointLog] [warning] CIGAR = 47C15M4C
+[2020-01-17 21:05:32.590] [jointLog] [warning] (in update()) CIGAR string for read [225864:0:0:SRR1976948.3138337] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:32.590] [jointLog] [warning] CIGAR = 41C41M1C
+[2020-01-17 21:05:34.890] [jointLog] [warning] (in update()) CIGAR string for read [234423:4:4:SRR1976948.4506486] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:34.890] [jointLog] [warning] CIGAR = 60C21M2C
+[2020-01-17 21:05:34.901] [jointLog] [warning] (in update()) CIGAR string for read [235651:5:5:SRR1976948.4733872] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:34.901] [jointLog] [warning] CIGAR = 45C35M3C
+[2020-01-17 21:05:34.902] [jointLog] [warning] (in update()) CIGAR string for read [235728:5:5:SRR1976948.4749069] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:34.902] [jointLog] [warning] CIGAR = 54C25M4C
+[2020-01-17 21:05:34.915] [jointLog] [warning] (in update()) CIGAR string for read [239542:3:3:SRR1976948.5510084] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:34.915] [jointLog] [warning] CIGAR = 58C21M2C
+[2020-01-17 21:05:34.951] [jointLog] [warning] (in update()) CIGAR string for read [243241:3:3:SRR1976948.6316800] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:34.951] [jointLog] [warning] CIGAR = 38C44M1C
+[2020-01-17 21:05:35.001] [jointLog] [warning] (in update()) CIGAR string for read [246269:4:4:SRR1976948.7038462] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:35.001] [jointLog] [warning] CIGAR = 57C24M2C
+[2020-01-17 21:05:35.047] [jointLog] [warning] (in update()) CIGAR string for read [249585:0:0:SRR1976948.7985655] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:35.047] [jointLog] [warning] CIGAR = 48C34M1C
+[2020-01-17 21:05:35.051] [jointLog] [warning] (in update()) CIGAR string for read [247161:2:2:SRR1976948.7274324] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:35.051] [jointLog] [warning] CIGAR = 65C16M2C
+[2020-01-17 21:05:35.120] [jointLog] [warning] (in update()) CIGAR string for read [249738:1:1:SRR1976948.8035501] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:35.120] [jointLog] [warning] CIGAR = 57C20M1C
+[2020-01-17 21:05:35.223] [jointLog] [warning] (in update()) CIGAR string for read [257234:1:1:SRR1976948.10597253] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:35.223] [jointLog] [warning] CIGAR = 53C25M5C
+[2020-01-17 21:05:35.298] [jointLog] [warning] (in update()) CIGAR string for read [260840:2:2:SRR1976948.12234414] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:35.299] [jointLog] [warning] CIGAR = 57C21M3C
+[2020-01-17 21:05:35.342] [jointLog] [warning] (in update()) CIGAR string for read [264413:4:4:SRR1976948.14012349] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:35.342] [jointLog] [warning] CIGAR = 63C16M4C
+[2020-01-17 21:05:35.355] [jointLog] [warning] (in update()) CIGAR string for read [265274:2:2:SRR1976948.14526200] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:35.355] [jointLog] [warning] CIGAR = 59C23M1C
+[2020-01-17 21:05:35.407] [jointLog] [warning] (in update()) CIGAR string for read [265885:3:3:SRR1976948.14860129] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:35.407] [jointLog] [warning] CIGAR = 45C26M1I2M1C
+[2020-01-17 21:05:35.434] [jointLog] [warning] (in update()) CIGAR string for read [268708:2:2:SRR1976948.16598154] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:05:35.434] [jointLog] [warning] CIGAR = 43C36M3C
+[2020-01-17 21:06:21.110] [jointLog] [info] 
+
+
+Completed first pass through the alignment file.
+Total # of mapped reads : 258057
+# of uniquely mapped reads : 252451
+# ambiguously mapped reads : 5606
+
+
+
+[2020-01-17 21:06:21.157] [jointLog] [info] Computed 4,996 rich equivalence classes for further processing
+[2020-01-17 21:06:21.158] [jointLog] [info] Counted 258,057 total reads in the equivalence classes 
+[2020-01-17 21:06:21.159] [jointLog] [warning] Only 258057 fragments were mapped, but the number of burn-in fragments was set to 5000000.
+The effective lengths have been computed using the observed mappings.
+
+[2020-01-17 21:06:21.162] [jointLog] [info] starting optimizer
+[2020-01-17 21:06:21.175] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2020-01-17 21:06:21.176] [jointLog] [info] iteration = 0 | max rel diff. = 482.286
+[2020-01-17 21:06:21.339] [jointLog] [info] iteration = 100 | max rel diff. = 0
+[2020-01-17 21:06:21.340] [jointLog] [info] finished optimizer
+[2020-01-17 21:06:21.340] [jointLog] [info] writing output

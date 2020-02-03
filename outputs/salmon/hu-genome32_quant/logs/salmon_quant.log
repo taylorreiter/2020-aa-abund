@@ -1,0 +1,32 @@
+[2020-01-17 22:13:25.203] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2020-01-17 22:13:25.247] [jointLog] [info] numQuantThreads = 4
+[2020-01-17 22:13:30.634] [jointLog] [info] replaced 361,758 non-ACGT nucleotides with random nucleotides
+[2020-01-17 22:13:31.810] [fileLog] [info] quantification processed 0 fragments so far
+
+[2020-01-17 22:13:31.811] [fileLog] [info] quantification processed 46426 fragments so far
+
+[2020-01-17 22:13:31.894] [jointLog] [warning] (in update()) CIGAR string for read [10467:4:4:SRR1976948.2292365] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 22:13:31.894] [jointLog] [warning] CIGAR = 62C19M2C
+[2020-01-17 22:13:32.120] [jointLog] [warning] (in update()) CIGAR string for read [16472:1:1:SRR1976948.3996061] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 22:13:32.120] [jointLog] [warning] CIGAR = 62C19M2C
+[2020-01-17 22:16:36.601] [jointLog] [info] 
+
+
+Completed first pass through the alignment file.
+Total # of mapped reads : 46426
+# of uniquely mapped reads : 46108
+# ambiguously mapped reads : 318
+
+
+
+[2020-01-17 22:16:36.634] [jointLog] [info] Computed 3,150 rich equivalence classes for further processing
+[2020-01-17 22:16:36.635] [jointLog] [info] Counted 46,426 total reads in the equivalence classes 
+[2020-01-17 22:16:36.636] [jointLog] [warning] Only 46426 fragments were mapped, but the number of burn-in fragments was set to 5000000.
+The effective lengths have been computed using the observed mappings.
+
+[2020-01-17 22:16:36.651] [jointLog] [info] starting optimizer
+[2020-01-17 22:16:36.683] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2020-01-17 22:16:36.684] [jointLog] [info] iteration = 0 | max rel diff. = 11.9552
+[2020-01-17 22:16:36.929] [jointLog] [info] iteration = 100 | max rel diff. = 0
+[2020-01-17 22:16:36.929] [jointLog] [info] finished optimizer
+[2020-01-17 22:16:36.929] [jointLog] [info] writing output

@@ -1,0 +1,35 @@
+[2020-01-17 21:53:53.406] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2020-01-17 21:53:53.424] [jointLog] [info] numQuantThreads = 4
+[2020-01-17 21:54:56.428] [jointLog] [info] replaced 436,194 non-ACGT nucleotides with random nucleotides
+[2020-01-17 21:54:59.195] [fileLog] [info] quantification processed 0 fragments so far
+
+[2020-01-17 21:54:59.419] [fileLog] [info] quantification processed 66070 fragments so far
+
+[2020-01-17 21:54:59.238] [jointLog] [warning] (in update()) CIGAR string for read [7576:0:0:SRR1976948.1116286] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:54:59.238] [jointLog] [warning] CIGAR = 15C27M1C
+[2020-01-17 21:54:59.713] [jointLog] [warning] (in update()) CIGAR string for read [38054:1:1:SRR1976948.7529901] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:54:59.713] [jointLog] [warning] CIGAR = 57C23M3C
+[2020-01-17 21:54:59.979] [jointLog] [warning] (in update()) CIGAR string for read [55368:4:4:SRR1976948.11229010] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 21:54:59.979] [jointLog] [warning] CIGAR = 51C17M3C
+[2020-01-17 21:55:00.087] [jointLog] [info] Automatically detected most likely library type as SF
+[2020-01-17 21:56:14.116] [jointLog] [info] 
+
+
+Completed first pass through the alignment file.
+Total # of mapped reads : 66070
+# of uniquely mapped reads : 65301
+# ambiguously mapped reads : 769
+
+
+
+[2020-01-17 21:56:14.147] [jointLog] [info] Computed 3,986 rich equivalence classes for further processing
+[2020-01-17 21:56:14.147] [jointLog] [info] Counted 66,070 total reads in the equivalence classes 
+[2020-01-17 21:56:14.150] [jointLog] [warning] Only 66070 fragments were mapped, but the number of burn-in fragments was set to 5000000.
+The effective lengths have been computed using the observed mappings.
+
+[2020-01-17 21:56:14.153] [jointLog] [info] starting optimizer
+[2020-01-17 21:56:14.161] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2020-01-17 21:56:14.162] [jointLog] [info] iteration = 0 | max rel diff. = 14.3523
+[2020-01-17 21:56:14.473] [jointLog] [info] iteration = 100 | max rel diff. = 2.17888e-16
+[2020-01-17 21:56:14.473] [jointLog] [info] finished optimizer
+[2020-01-17 21:56:14.473] [jointLog] [info] writing output

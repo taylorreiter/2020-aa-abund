@@ -1,0 +1,67 @@
+[2020-01-17 20:24:52.070] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2020-01-17 20:24:52.083] [jointLog] [info] numQuantThreads = 4
+[2020-01-17 20:24:54.545] [jointLog] [info] replaced 793,714 non-ACGT nucleotides with random nucleotides
+[2020-01-17 20:24:55.111] [fileLog] [info] quantification processed 0 fragments so far
+
+[2020-01-17 20:24:55.135] [fileLog] [info] quantification processed 155576 fragments so far
+
+[2020-01-17 20:24:55.115] [jointLog] [warning] (in update()) CIGAR string for read [1334:5:5:SRR1976948.13185392] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 20:24:55.115] [jointLog] [warning] CIGAR = 15M64C
+[2020-01-17 20:24:55.115] [jointLog] [warning] (in update()) CIGAR string for read [1335:2:2:SRR1976948.13185392] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 20:24:55.115] [jointLog] [warning] CIGAR = 15M64C
+[2020-01-17 20:24:55.124] [jointLog] [warning] (in update()) CIGAR string for read [1057:4:4:SRR1976948.12245447] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 20:24:55.124] [jointLog] [warning] CIGAR = 61C16M6C
+[2020-01-17 20:24:55.134] [jointLog] [warning] (in update()) CIGAR string for read [4391:3:3:SRR1976948.3346210] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 20:24:55.134] [jointLog] [warning] CIGAR = 49C16M18C
+[2020-01-17 20:24:55.138] [jointLog] [warning] (in update()) CIGAR string for read [4749:0:0:SRR1976948.4527179] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 20:24:55.138] [jointLog] [warning] CIGAR = 47C16M2C
+[2020-01-17 20:24:57.530] [jointLog] [warning] (in update()) CIGAR string for read [7221:4:4:SRR1976948.12506876] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 20:24:57.530] [jointLog] [warning] CIGAR = 1C23M59C
+[2020-01-17 20:24:57.664] [jointLog] [warning] (in update()) CIGAR string for read [7685:3:3:SRR1976948.13885379] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 20:24:57.664] [jointLog] [warning] CIGAR = 39C36M8C
+[2020-01-17 20:25:02.827] [jointLog] [warning] (in update()) CIGAR string for read [15000:5:5:SRR1976948.13983539] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 20:25:02.827] [jointLog] [warning] CIGAR = 61C20M2C
+[2020-01-17 20:25:02.872] [jointLog] [warning] (in update()) CIGAR string for read [16360:3:3:SRR1976948.14814085] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 20:25:02.872] [jointLog] [warning] CIGAR = 45C16M2C
+[2020-01-17 20:25:16.582] [jointLog] [warning] (in update()) CIGAR string for read [42211:5:5:SRR1976948.2164938] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 20:25:16.582] [jointLog] [warning] CIGAR = 46C25M12C
+[2020-01-17 20:25:21.508] [jointLog] [info] Automatically detected most likely library type as SF
+[2020-01-17 20:25:27.720] [jointLog] [warning] (in update()) CIGAR string for read [61415:0:0:SRR1976948.4315393] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 20:25:27.720] [jointLog] [warning] CIGAR = 52C29M2C
+[2020-01-17 20:25:32.171] [jointLog] [warning] (in update()) CIGAR string for read [70393:4:4:SRR1976948.5334020] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 20:25:32.171] [jointLog] [warning] CIGAR = 62C18M3C
+[2020-01-17 20:25:36.990] [jointLog] [warning] (in update()) CIGAR string for read [80156:1:1:SRR1976948.6445673] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 20:25:36.990] [jointLog] [warning] CIGAR = 51C28M4C
+[2020-01-17 20:25:41.746] [jointLog] [warning] (in update()) CIGAR string for read [87286:0:0:SRR1976948.7267042] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 20:25:41.746] [jointLog] [warning] CIGAR = 43C38M2C
+[2020-01-17 20:25:42.236] [jointLog] [warning] (in update()) CIGAR string for read [90286:5:5:SRR1976948.7596951] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 20:25:42.236] [jointLog] [warning] CIGAR = 53C28M2C
+[2020-01-17 20:25:47.453] [jointLog] [warning] (in update()) CIGAR string for read [101231:2:2:SRR1976948.8836220] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 20:25:47.453] [jointLog] [warning] CIGAR = 44C38M1C
+[2020-01-17 20:26:07.769] [jointLog] [warning] (in update()) CIGAR string for read [137775:0:0:SRR1976948.13198638] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 20:26:07.769] [jointLog] [warning] CIGAR = 55C25M3C
+[2020-01-17 20:26:09.825] [jointLog] [warning] (in update()) CIGAR string for read [162115:5:5:SRR1976948.16608670] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 20:26:09.825] [jointLog] [warning] CIGAR = 52C20M1C
+[2020-01-17 20:26:09.873] [jointLog] [warning] (in update()) CIGAR string for read [165641:0:0:SRR1976948.17181052] seems inconsistent. It refers to non-existant positions in the read!
+[2020-01-17 20:26:09.873] [jointLog] [warning] CIGAR = 60C19M4C
+[2020-01-17 20:26:09.897] [jointLog] [info] 
+
+
+Completed first pass through the alignment file.
+Total # of mapped reads : 155576
+# of uniquely mapped reads : 152652
+# ambiguously mapped reads : 2924
+
+
+
+[2020-01-17 20:26:09.913] [jointLog] [info] Computed 6,294 rich equivalence classes for further processing
+[2020-01-17 20:26:09.913] [jointLog] [info] Counted 155,576 total reads in the equivalence classes 
+[2020-01-17 20:26:09.914] [jointLog] [warning] Only 155576 fragments were mapped, but the number of burn-in fragments was set to 5000000.
+The effective lengths have been computed using the observed mappings.
+
+[2020-01-17 20:26:09.916] [jointLog] [info] starting optimizer
+[2020-01-17 20:26:09.931] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2020-01-17 20:26:09.932] [jointLog] [info] iteration = 0 | max rel diff. = 103.81
+[2020-01-17 20:26:10.193] [jointLog] [info] iteration = 100 | max rel diff. = 1.4803e-16
+[2020-01-17 20:26:10.193] [jointLog] [info] finished optimizer
+[2020-01-17 20:26:10.193] [jointLog] [info] writing output
