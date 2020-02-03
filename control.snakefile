@@ -1,15 +1,8 @@
 ENV = 'env.yml'
-#nbhd = ['hu-genome19', 'hu-genome20', 'hu-genome21', 'hu-genome22', 
-#        'hu-genome23', 'hu-genome24', 'hu-genome25', 'hu-genome26',
-#        'hu-genome27', 'hu-genome28', 'hu-genome29', 'hu-genome30',
-#        'hu-genome31', 'hu-genome32', 'hu-genome33', 'hu-genome34',
-#        'hu-genome35', 'hu-genome36', 'hu-genome37', 'hu-genome38',
-#        'hu-genome39', 'hu-genome40', 'hu-genome41']
 
 rule all: 
     input:
         "fake_out_plass.txt",
-        #"fake_out_reads.txt"
 
 rule download_plass:
     output: "inputs/plass/hu-s1-plass-hardtrim-clean-jan08.2019.tar.gz"
