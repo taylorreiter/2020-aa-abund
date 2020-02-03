@@ -1,0 +1,46 @@
+{
+    "salmon_version": "0.15.0",
+    "samp_type": "none",
+    "opt_type": "vb",
+    "quant_errors": [],
+    "num_libraries": 1,
+    "library_types": [
+        "SF"
+    ],
+    "frag_dist_length": 1001,
+    "seq_bias_correct": false,
+    "gc_bias_correct": false,
+    "num_bias_bins": 4096,
+    "mapping_type": "alignment",
+    "num_valid_targets": 2328,
+    "num_decoy_targets": 0,
+    "num_eq_classes": 2215,
+    "serialized_eq_classes": false,
+    "eq_class_properties": [
+        "range_factorized"
+    ],
+    "length_classes": [
+        76,
+        104,
+        148,
+        227,
+        836
+    ],
+    "index_seq_hash": "",
+    "index_name_hash": "",
+    "index_seq_hash512": "",
+    "index_name_hash512": "",
+    "index_decoy_seq_hash": "",
+    "index_decoy_name_hash": "",
+    "num_bootstraps": 0,
+    "num_processed": 70698,
+    "num_mapped": 63782,
+    "num_decoy_fragments": 0,
+    "num_dovetail_fragments": 0,
+    "num_fragments_filtered_vm": 0,
+    "num_alignments_below_threshold_for_mapped_fragments_vm": 0,
+    "percent_mapped": 90.21754505077937,
+    "call": "quant",
+    "start_time": "Fri Jan 17 22:35:41 2020",
+    "end_time": "Fri Jan 17 22:41:56 2020"
+}
